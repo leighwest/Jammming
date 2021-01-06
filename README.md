@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Jammming
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application which utilises the Spotify developer API and enables uses to search for songs and create and save playlists which are available in their Spotify account.
 
-## Available Scripts
+## Screenshots
+
+# Home Screen
+
+![Alt text](/screenshots/'home screen'.PNG?raw=true "Optional Title")
 
 In the project directory, you can run:
 
