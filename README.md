@@ -1,6 +1,6 @@
 # Jammming
 
-A web application which utilises the Spotify developer API and enables uses to search for songs and create and save playlists which are available in their Spotify account. 
+A React.js web application which utilises the Spotify developer API and enables uses to search for songs and create and save playlists which are available in their Spotify account. 
 
 The four screenshots below visualise:
    1) The home screen;
@@ -40,7 +40,7 @@ Head to https://developer.spotify.com/dashboard/ and log in using your Spotify c
 
 Click 'Create an App' and follow the on screen instructions.
 
-When you have your clientId, store it in the `clientId` variable found on line 3 in src -> util -> Spotify.js
+When you have your Client ID, store it in the `clientId` variable found on line 3 in src -> util -> Spotify.js
 
 To Start Server:
 
