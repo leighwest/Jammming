@@ -4,9 +4,9 @@ A web application which utilises the Spotify developer API and enables uses to s
 
 ## Screenshots
 
-# Home Screen
+### Home Screen
 
-![Alt text](/screenshots/home%20screen.PNG?raw=true "Optional Title")
+![Alt text](/screenshots/home%20screen.PNG?raw=true "Home Screen")
 
 In the project directory, you can run:
 
