@@ -6,7 +6,7 @@ A web application which utilises the Spotify developer API and enables uses to s
 
 ### Home Screen
 
-!(/screenshots/home%20screen.PNG?raw=true "Home Screen")
+![](/screenshots/home%20screen.PNG?raw=true "Home Screen")
 
 ### Searching for a song or artist
 
