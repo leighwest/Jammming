@@ -6,7 +6,7 @@ A web application which utilises the Spotify developer API and enables uses to s
 
 # Home Screen
 
-![Alt text](/screenshots/'home screen'.PNG?raw=true "Optional Title")
+![Alt text](/screenshots/home%20screen.PNG?raw=true "Optional Title")
 
 In the project directory, you can run:
 
