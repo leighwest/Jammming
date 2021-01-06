@@ -6,7 +6,20 @@ A web application which utilises the Spotify developer API and enables uses to s
 
 ### Home Screen
 
-![Alt text](/screenshots/home%20screen.PNG?raw=true "Home Screen")
+(/screenshots/home%20screen.PNG?raw=true "Home Screen")
+
+### Searching for a song or artist
+
+![Alt text](/screenshots/search.PNG?raw=true "Searching for a song or artist")
+
+### Creating a playlist
+
+![Alt text](/screenshots/create%20playlist.PNG?raw=true "Creating a playlist")
+
+### Accessing playlist in Spotify
+
+![Alt text](/screenshots/spotify.PNG?raw=true "Viewing playlist in Spotify")
+
 
 In the project directory, you can run:
 
