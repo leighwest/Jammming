@@ -1,4 +1,6 @@
-const clientId = '61a34f2bd8c743b2a9cf1841faeac419';
+// Insert your clientId here
+// To create one, go to https://developer.spotify.com/dashboard/
+const clientId = '';
 const redirectUri = 'http://localhost:3000';
 let accessToken;
 
