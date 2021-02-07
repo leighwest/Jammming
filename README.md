@@ -1,6 +1,6 @@
 # Jammming
 
-A React.js web application which utilises the Spotify developer API and enables uses to search for songs and create and save playlists which are available in their Spotify account. 
+A React.js web application which utilises the Spotify developer API and enables users to search for songs and create and save playlists which are available in their Spotify account. 
 
 The four screenshots below visualise:
    1) The home screen;
